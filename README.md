@@ -21,7 +21,7 @@ A static business website developed for Sri Bajrang Steels.
 
 "Visit Website" (https://jasvantsuthar14.github.io/sri-Bajrang-steels/)
 
-Developer
+Developer : 
 Jasvant Jangid
 
 GitHub: "@jasvantsuthar14" (https://github.com/jasvantsuthar14)
